@@ -54,7 +54,8 @@ Rupin Ajay (rupinajay@gmail.com), Rudra Panda(rudra.panda73@gmail.com)
 
 We welcome contributions to this project. If you'd like to add features, fix bugs, or make improvements, please feel free to fork the repository and submit a pull request. Your contributions are valuable and will help enhance the functionality of this gesture-controlled mouse.
 
-License
+## License
+
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software, subject to the terms of the license.
 
 If you have any questions, encounter issues, or wish to discuss this project further, please don't hesitate to reach out. Enjoy using your gesture-controlled mouse!
