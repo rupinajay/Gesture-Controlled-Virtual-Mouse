@@ -50,7 +50,7 @@ The program recognizes two key hand gestures:
 To exit the program, simply snap your thumb and middle finger together. (Thanos Snap)
 
 ## Contributors
-Rupin Ajay (rupinajay@gmail.com), Rudra Panda(rudra.panda73@gmail.com)
+Rupin Ajay (rupinajay@gmail.com), Rudra Panda(rudra.panda73@gmail.com) , Sanjay (sanjayperam2604@gmail.com) , Sukrith (Sukrithpvs2005@gmail.com), Raya (rayaroshan@gmail.com)
 
 We welcome contributions to this project. If you'd like to add features, fix bugs, or make improvements, please feel free to fork the repository and submit a pull request. Your contributions are valuable and will help enhance the functionality of this gesture-controlled mouse.
 
